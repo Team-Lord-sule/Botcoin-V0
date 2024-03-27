@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "hostinguser77@gmail.com",
-    "password": "zzzxxx",
+    "email": "gowebsite7@gmail.com",
+    "password": "nnnmmm",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -29,7 +29,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "BEyONcE",
+  "nickNameBot": "RoSA",
   "prefix": "-",
   "database": {
     "type": "sqlite",
